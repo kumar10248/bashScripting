@@ -2,6 +2,7 @@
 
 while true; do
    
+       read -p "Enter two numbers: " a b
 
     echo "===================="
     echo "   Bash Calculator"
@@ -15,8 +16,7 @@ while true; do
     echo "===================="
 
     read -p "Enter your choice (1-6): " choice
-     read -p "Enter two numbers: " a b
-
+  
     case $choice in
         1) echo "Result: $((a + b))" ;;
         2) echo "Result: $((a - b))" ;;
