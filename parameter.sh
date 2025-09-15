@@ -1,3 +1,4 @@
+#!/bin/bash
 echo "Parameter Script Executed"
 # echo $0
 # echo $1
