@@ -2,12 +2,15 @@
 
 FILE="tasks.txt"
 
-# Load tasks from file into array
 if [ -f "$FILE" ]; then
     mapfile -t tasks < "$FILE"
 else
     tasks=()
 fi
+
+save_tasks() {
+    printf "%s\n" "${tasks[@]}" > "$FILE"
+}
 
 while true; do
     echo "=========================="
@@ -15,7 +18,7 @@ while true; do
     echo "=========================="
     echo "1. View Tasks"
     echo "2. Add Task"
-    echo "3. Delete Task"
+    echo "3. Mark Task as Done"
     echo "4. Exit"
     echo "=========================="
 
@@ -34,20 +37,21 @@ while true; do
             ;;
         2)
             read -p "Enter new task: " new_task
-            tasks+=("$new_task")
-            printf "%s\n" "${tasks[@]}" > "$FILE"
+            timestamp=$(date "+%Y-%m-%d %H:%M:%S")
+            task_with_time="$new_task (added on $timestamp) [PENDING]"
+            tasks+=("$task_with_time")
+            save_tasks
             echo "Task added!"
             ;;
         3)
             if [ ${#tasks[@]} -eq 0 ]; then
-                echo "No tasks to delete."
+                echo "No tasks to mark."
             else
-                read -p "Enter task number to delete: " num
+                read -p "Enter task number to mark as DONE: " num
                 if [ $num -le ${#tasks[@]} ] && [ $num -gt 0 ]; then
-                    unset tasks[$((num-1))]
-                    tasks=("${tasks[@]}")  # reindex array
-                    printf "%s\n" "${tasks[@]}" > "$FILE"
-                    echo "Task deleted!"
+                    tasks[$((num-1))]="${tasks[$((num-1))]/\[PENDING\]/[DONE ✅]}"
+                    save_tasks
+                    echo "Task marked as DONE!"
                 else
                     echo "Invalid task number."
                 fi
