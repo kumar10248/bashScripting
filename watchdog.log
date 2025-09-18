@@ -1,0 +1,474 @@
+🚨 Process Watchdog started (CPU > 80% will be killed)
+Checking every 5 seconds...
+----------------------------------------
+⚠️ High CPU detected! PID=2846 CMD=python CPU=webui.py%
+✅ Process 2846 (python) killed at Wednesday 17 September 2025 02:51:03 PM IST
+⚠️ High CPU detected! PID=1320 CMD=avahi-daemon: CPU=running%
+✅ Process 1320 (avahi-daemon:) killed at Wednesday 17 September 2025 02:51:03 PM IST
+⚠️ High CPU detected! PID=1 CMD=/sbin/init CPU=splash%
+✅ Process 1 (/sbin/init) killed at Wednesday 17 September 2025 02:51:03 PM IST
+⚠️ High CPU detected! PID=2082 CMD=/usr/local/bin/ollama CPU=serve%
+✅ Process 2082 (/usr/local/bin/ollama) killed at Wednesday 17 September 2025 02:51:03 PM IST
+⚠️ High CPU detected! PID=2841 CMD=Xvfb CPU=:99%
+✅ Process 2841 (Xvfb) killed at Wednesday 17 September 2025 02:51:03 PM IST
+⚠️ High CPU detected! PID=1300 CMD=[UVM CPU=global%
+✅ Process 1300 ([UVM) killed at Wednesday 17 September 2025 02:51:03 PM IST
+⚠️ High CPU detected! PID=1301 CMD=[UVM CPU=deferred%
+✅ Process 1301 ([UVM) killed at Wednesday 17 September 2025 02:51:03 PM IST
+⚠️ High CPU detected! PID=1302 CMD=[UVM CPU=Tools%
+✅ Process 1302 ([UVM) killed at Wednesday 17 September 2025 02:51:03 PM IST
+⚠️ High CPU detected! PID=1375 CMD=avahi-daemon: CPU=chroot%
+✅ Process 1375 (avahi-daemon:) killed at Wednesday 17 September 2025 02:51:03 PM IST
+⚠️ High CPU detected! PID=2159 CMD=[vidmem CPU=lazy%
+✅ Process 2159 ([vidmem) killed at Wednesday 17 September 2025 02:51:03 PM IST
+⚠️ High CPU detected! PID=2160 CMD=[UVM CPU=GPU1%
+✅ Process 2160 ([UVM) killed at Wednesday 17 September 2025 02:51:03 PM IST
+⚠️ High CPU detected! PID=2161 CMD=[UVM CPU=GPU1%
+✅ Process 2161 ([UVM) killed at Wednesday 17 September 2025 02:51:03 PM IST
+⚠️ High CPU detected! PID=794351 CMD=sleep CPU=3600%
+✅ Process 794351 (sleep) killed at Wednesday 17 September 2025 02:51:03 PM IST
+⚠️ High CPU detected! PID=2846 CMD=python CPU=webui.py%
+✅ Process 2846 (python) killed at Wednesday 17 September 2025 02:51:08 PM IST
+⚠️ High CPU detected! PID=1320 CMD=avahi-daemon: CPU=running%
+✅ Process 1320 (avahi-daemon:) killed at Wednesday 17 September 2025 02:51:08 PM IST
+⚠️ High CPU detected! PID=1 CMD=/sbin/init CPU=splash%
+✅ Process 1 (/sbin/init) killed at Wednesday 17 September 2025 02:51:08 PM IST
+⚠️ High CPU detected! PID=2082 CMD=/usr/local/bin/ollama CPU=serve%
+✅ Process 2082 (/usr/local/bin/ollama) killed at Wednesday 17 September 2025 02:51:08 PM IST
+⚠️ High CPU detected! PID=2841 CMD=Xvfb CPU=:99%
+✅ Process 2841 (Xvfb) killed at Wednesday 17 September 2025 02:51:08 PM IST
+⚠️ High CPU detected! PID=1300 CMD=[UVM CPU=global%
+✅ Process 1300 ([UVM) killed at Wednesday 17 September 2025 02:51:08 PM IST
+⚠️ High CPU detected! PID=1301 CMD=[UVM CPU=deferred%
+✅ Process 1301 ([UVM) killed at Wednesday 17 September 2025 02:51:08 PM IST
+⚠️ High CPU detected! PID=1302 CMD=[UVM CPU=Tools%
+✅ Process 1302 ([UVM) killed at Wednesday 17 September 2025 02:51:08 PM IST
+⚠️ High CPU detected! PID=1375 CMD=avahi-daemon: CPU=chroot%
+✅ Process 1375 (avahi-daemon:) killed at Wednesday 17 September 2025 02:51:08 PM IST
+⚠️ High CPU detected! PID=2159 CMD=[vidmem CPU=lazy%
+✅ Process 2159 ([vidmem) killed at Wednesday 17 September 2025 02:51:08 PM IST
+⚠️ High CPU detected! PID=2160 CMD=[UVM CPU=GPU1%
+✅ Process 2160 ([UVM) killed at Wednesday 17 September 2025 02:51:08 PM IST
+⚠️ High CPU detected! PID=2161 CMD=[UVM CPU=GPU1%
+✅ Process 2161 ([UVM) killed at Wednesday 17 September 2025 02:51:08 PM IST
+⚠️ High CPU detected! PID=794351 CMD=sleep CPU=3600%
+✅ Process 794351 (sleep) killed at Wednesday 17 September 2025 02:51:08 PM IST
+⚠️ High CPU detected! PID=2846 CMD=python CPU=webui.py%
+✅ Process 2846 (python) killed at Wednesday 17 September 2025 02:51:13 PM IST
+⚠️ High CPU detected! PID=1320 CMD=avahi-daemon: CPU=running%
+✅ Process 1320 (avahi-daemon:) killed at Wednesday 17 September 2025 02:51:13 PM IST
+⚠️ High CPU detected! PID=1 CMD=/sbin/init CPU=splash%
+✅ Process 1 (/sbin/init) killed at Wednesday 17 September 2025 02:51:13 PM IST
+⚠️ High CPU detected! PID=2082 CMD=/usr/local/bin/ollama CPU=serve%
+✅ Process 2082 (/usr/local/bin/ollama) killed at Wednesday 17 September 2025 02:51:13 PM IST
+⚠️ High CPU detected! PID=2841 CMD=Xvfb CPU=:99%
+✅ Process 2841 (Xvfb) killed at Wednesday 17 September 2025 02:51:13 PM IST
+⚠️ High CPU detected! PID=1300 CMD=[UVM CPU=global%
+✅ Process 1300 ([UVM) killed at Wednesday 17 September 2025 02:51:13 PM IST
+⚠️ High CPU detected! PID=1301 CMD=[UVM CPU=deferred%
+✅ Process 1301 ([UVM) killed at Wednesday 17 September 2025 02:51:13 PM IST
+⚠️ High CPU detected! PID=1302 CMD=[UVM CPU=Tools%
+✅ Process 1302 ([UVM) killed at Wednesday 17 September 2025 02:51:13 PM IST
+⚠️ High CPU detected! PID=1375 CMD=avahi-daemon: CPU=chroot%
+✅ Process 1375 (avahi-daemon:) killed at Wednesday 17 September 2025 02:51:13 PM IST
+⚠️ High CPU detected! PID=2159 CMD=[vidmem CPU=lazy%
+✅ Process 2159 ([vidmem) killed at Wednesday 17 September 2025 02:51:13 PM IST
+⚠️ High CPU detected! PID=2160 CMD=[UVM CPU=GPU1%
+✅ Process 2160 ([UVM) killed at Wednesday 17 September 2025 02:51:13 PM IST
+⚠️ High CPU detected! PID=2161 CMD=[UVM CPU=GPU1%
+✅ Process 2161 ([UVM) killed at Wednesday 17 September 2025 02:51:13 PM IST
+⚠️ High CPU detected! PID=794351 CMD=sleep CPU=3600%
+✅ Process 794351 (sleep) killed at Wednesday 17 September 2025 02:51:13 PM IST
+⚠️ High CPU detected! PID=2846 CMD=python CPU=webui.py%
+✅ Process 2846 (python) killed at Wednesday 17 September 2025 02:51:18 PM IST
+⚠️ High CPU detected! PID=1320 CMD=avahi-daemon: CPU=running%
+✅ Process 1320 (avahi-daemon:) killed at Wednesday 17 September 2025 02:51:18 PM IST
+⚠️ High CPU detected! PID=1 CMD=/sbin/init CPU=splash%
+✅ Process 1 (/sbin/init) killed at Wednesday 17 September 2025 02:51:18 PM IST
+⚠️ High CPU detected! PID=2082 CMD=/usr/local/bin/ollama CPU=serve%
+✅ Process 2082 (/usr/local/bin/ollama) killed at Wednesday 17 September 2025 02:51:18 PM IST
+⚠️ High CPU detected! PID=2841 CMD=Xvfb CPU=:99%
+✅ Process 2841 (Xvfb) killed at Wednesday 17 September 2025 02:51:18 PM IST
+⚠️ High CPU detected! PID=1300 CMD=[UVM CPU=global%
+✅ Process 1300 ([UVM) killed at Wednesday 17 September 2025 02:51:18 PM IST
+⚠️ High CPU detected! PID=1301 CMD=[UVM CPU=deferred%
+✅ Process 1301 ([UVM) killed at Wednesday 17 September 2025 02:51:18 PM IST
+⚠️ High CPU detected! PID=1302 CMD=[UVM CPU=Tools%
+✅ Process 1302 ([UVM) killed at Wednesday 17 September 2025 02:51:18 PM IST
+⚠️ High CPU detected! PID=1375 CMD=avahi-daemon: CPU=chroot%
+✅ Process 1375 (avahi-daemon:) killed at Wednesday 17 September 2025 02:51:18 PM IST
+⚠️ High CPU detected! PID=2159 CMD=[vidmem CPU=lazy%
+✅ Process 2159 ([vidmem) killed at Wednesday 17 September 2025 02:51:18 PM IST
+⚠️ High CPU detected! PID=2160 CMD=[UVM CPU=GPU1%
+✅ Process 2160 ([UVM) killed at Wednesday 17 September 2025 02:51:18 PM IST
+⚠️ High CPU detected! PID=2161 CMD=[UVM CPU=GPU1%
+✅ Process 2161 ([UVM) killed at Wednesday 17 September 2025 02:51:18 PM IST
+⚠️ High CPU detected! PID=794351 CMD=sleep CPU=3600%
+✅ Process 794351 (sleep) killed at Wednesday 17 September 2025 02:51:18 PM IST
+⚠️ High CPU detected! PID=2846 CMD=python CPU=webui.py%
+✅ Process 2846 (python) killed at Wednesday 17 September 2025 02:51:23 PM IST
+⚠️ High CPU detected! PID=1320 CMD=avahi-daemon: CPU=running%
+✅ Process 1320 (avahi-daemon:) killed at Wednesday 17 September 2025 02:51:23 PM IST
+⚠️ High CPU detected! PID=1 CMD=/sbin/init CPU=splash%
+✅ Process 1 (/sbin/init) killed at Wednesday 17 September 2025 02:51:23 PM IST
+⚠️ High CPU detected! PID=2082 CMD=/usr/local/bin/ollama CPU=serve%
+✅ Process 2082 (/usr/local/bin/ollama) killed at Wednesday 17 September 2025 02:51:23 PM IST
+⚠️ High CPU detected! PID=2841 CMD=Xvfb CPU=:99%
+✅ Process 2841 (Xvfb) killed at Wednesday 17 September 2025 02:51:23 PM IST
+⚠️ High CPU detected! PID=1300 CMD=[UVM CPU=global%
+✅ Process 1300 ([UVM) killed at Wednesday 17 September 2025 02:51:23 PM IST
+⚠️ High CPU detected! PID=1301 CMD=[UVM CPU=deferred%
+✅ Process 1301 ([UVM) killed at Wednesday 17 September 2025 02:51:23 PM IST
+⚠️ High CPU detected! PID=1302 CMD=[UVM CPU=Tools%
+✅ Process 1302 ([UVM) killed at Wednesday 17 September 2025 02:51:23 PM IST
+⚠️ High CPU detected! PID=1375 CMD=avahi-daemon: CPU=chroot%
+✅ Process 1375 (avahi-daemon:) killed at Wednesday 17 September 2025 02:51:23 PM IST
+⚠️ High CPU detected! PID=2159 CMD=[vidmem CPU=lazy%
+✅ Process 2159 ([vidmem) killed at Wednesday 17 September 2025 02:51:23 PM IST
+⚠️ High CPU detected! PID=2160 CMD=[UVM CPU=GPU1%
+✅ Process 2160 ([UVM) killed at Wednesday 17 September 2025 02:51:23 PM IST
+⚠️ High CPU detected! PID=2161 CMD=[UVM CPU=GPU1%
+✅ Process 2161 ([UVM) killed at Wednesday 17 September 2025 02:51:23 PM IST
+⚠️ High CPU detected! PID=794351 CMD=sleep CPU=3600%
+✅ Process 794351 (sleep) killed at Wednesday 17 September 2025 02:51:23 PM IST
+⚠️ High CPU detected! PID=2846 CMD=python CPU=webui.py%
+✅ Process 2846 (python) killed at Wednesday 17 September 2025 02:51:28 PM IST
+⚠️ High CPU detected! PID=1320 CMD=avahi-daemon: CPU=running%
+✅ Process 1320 (avahi-daemon:) killed at Wednesday 17 September 2025 02:51:28 PM IST
+⚠️ High CPU detected! PID=1 CMD=/sbin/init CPU=splash%
+✅ Process 1 (/sbin/init) killed at Wednesday 17 September 2025 02:51:28 PM IST
+⚠️ High CPU detected! PID=2082 CMD=/usr/local/bin/ollama CPU=serve%
+✅ Process 2082 (/usr/local/bin/ollama) killed at Wednesday 17 September 2025 02:51:28 PM IST
+⚠️ High CPU detected! PID=2841 CMD=Xvfb CPU=:99%
+✅ Process 2841 (Xvfb) killed at Wednesday 17 September 2025 02:51:28 PM IST
+⚠️ High CPU detected! PID=1300 CMD=[UVM CPU=global%
+✅ Process 1300 ([UVM) killed at Wednesday 17 September 2025 02:51:28 PM IST
+⚠️ High CPU detected! PID=1301 CMD=[UVM CPU=deferred%
+✅ Process 1301 ([UVM) killed at Wednesday 17 September 2025 02:51:28 PM IST
+⚠️ High CPU detected! PID=1302 CMD=[UVM CPU=Tools%
+✅ Process 1302 ([UVM) killed at Wednesday 17 September 2025 02:51:28 PM IST
+⚠️ High CPU detected! PID=1375 CMD=avahi-daemon: CPU=chroot%
+✅ Process 1375 (avahi-daemon:) killed at Wednesday 17 September 2025 02:51:28 PM IST
+⚠️ High CPU detected! PID=2159 CMD=[vidmem CPU=lazy%
+✅ Process 2159 ([vidmem) killed at Wednesday 17 September 2025 02:51:28 PM IST
+⚠️ High CPU detected! PID=2160 CMD=[UVM CPU=GPU1%
+✅ Process 2160 ([UVM) killed at Wednesday 17 September 2025 02:51:28 PM IST
+⚠️ High CPU detected! PID=2161 CMD=[UVM CPU=GPU1%
+✅ Process 2161 ([UVM) killed at Wednesday 17 September 2025 02:51:28 PM IST
+⚠️ High CPU detected! PID=794351 CMD=sleep CPU=3600%
+✅ Process 794351 (sleep) killed at Wednesday 17 September 2025 02:51:28 PM IST
+⚠️ High CPU detected! PID=2846 CMD=python CPU=webui.py%
+✅ Process 2846 (python) killed at Wednesday 17 September 2025 02:51:33 PM IST
+⚠️ High CPU detected! PID=1320 CMD=avahi-daemon: CPU=running%
+✅ Process 1320 (avahi-daemon:) killed at Wednesday 17 September 2025 02:51:33 PM IST
+⚠️ High CPU detected! PID=1 CMD=/sbin/init CPU=splash%
+✅ Process 1 (/sbin/init) killed at Wednesday 17 September 2025 02:51:33 PM IST
+⚠️ High CPU detected! PID=2082 CMD=/usr/local/bin/ollama CPU=serve%
+✅ Process 2082 (/usr/local/bin/ollama) killed at Wednesday 17 September 2025 02:51:33 PM IST
+⚠️ High CPU detected! PID=2841 CMD=Xvfb CPU=:99%
+✅ Process 2841 (Xvfb) killed at Wednesday 17 September 2025 02:51:33 PM IST
+⚠️ High CPU detected! PID=1300 CMD=[UVM CPU=global%
+✅ Process 1300 ([UVM) killed at Wednesday 17 September 2025 02:51:33 PM IST
+⚠️ High CPU detected! PID=1301 CMD=[UVM CPU=deferred%
+✅ Process 1301 ([UVM) killed at Wednesday 17 September 2025 02:51:33 PM IST
+⚠️ High CPU detected! PID=1302 CMD=[UVM CPU=Tools%
+✅ Process 1302 ([UVM) killed at Wednesday 17 September 2025 02:51:33 PM IST
+⚠️ High CPU detected! PID=1375 CMD=avahi-daemon: CPU=chroot%
+✅ Process 1375 (avahi-daemon:) killed at Wednesday 17 September 2025 02:51:33 PM IST
+⚠️ High CPU detected! PID=2159 CMD=[vidmem CPU=lazy%
+✅ Process 2159 ([vidmem) killed at Wednesday 17 September 2025 02:51:33 PM IST
+⚠️ High CPU detected! PID=2160 CMD=[UVM CPU=GPU1%
+✅ Process 2160 ([UVM) killed at Wednesday 17 September 2025 02:51:33 PM IST
+⚠️ High CPU detected! PID=2161 CMD=[UVM CPU=GPU1%
+✅ Process 2161 ([UVM) killed at Wednesday 17 September 2025 02:51:33 PM IST
+⚠️ High CPU detected! PID=794351 CMD=sleep CPU=3600%
+✅ Process 794351 (sleep) killed at Wednesday 17 September 2025 02:51:33 PM IST
+⚠️ High CPU detected! PID=2846 CMD=python CPU=webui.py%
+✅ Process 2846 (python) killed at Wednesday 17 September 2025 02:51:38 PM IST
+⚠️ High CPU detected! PID=1320 CMD=avahi-daemon: CPU=running%
+✅ Process 1320 (avahi-daemon:) killed at Wednesday 17 September 2025 02:51:38 PM IST
+⚠️ High CPU detected! PID=1 CMD=/sbin/init CPU=splash%
+✅ Process 1 (/sbin/init) killed at Wednesday 17 September 2025 02:51:38 PM IST
+⚠️ High CPU detected! PID=2082 CMD=/usr/local/bin/ollama CPU=serve%
+✅ Process 2082 (/usr/local/bin/ollama) killed at Wednesday 17 September 2025 02:51:38 PM IST
+⚠️ High CPU detected! PID=2841 CMD=Xvfb CPU=:99%
+✅ Process 2841 (Xvfb) killed at Wednesday 17 September 2025 02:51:38 PM IST
+⚠️ High CPU detected! PID=1300 CMD=[UVM CPU=global%
+✅ Process 1300 ([UVM) killed at Wednesday 17 September 2025 02:51:38 PM IST
+⚠️ High CPU detected! PID=1301 CMD=[UVM CPU=deferred%
+✅ Process 1301 ([UVM) killed at Wednesday 17 September 2025 02:51:38 PM IST
+⚠️ High CPU detected! PID=1302 CMD=[UVM CPU=Tools%
+✅ Process 1302 ([UVM) killed at Wednesday 17 September 2025 02:51:38 PM IST
+⚠️ High CPU detected! PID=1375 CMD=avahi-daemon: CPU=chroot%
+✅ Process 1375 (avahi-daemon:) killed at Wednesday 17 September 2025 02:51:38 PM IST
+⚠️ High CPU detected! PID=2159 CMD=[vidmem CPU=lazy%
+✅ Process 2159 ([vidmem) killed at Wednesday 17 September 2025 02:51:38 PM IST
+⚠️ High CPU detected! PID=2160 CMD=[UVM CPU=GPU1%
+✅ Process 2160 ([UVM) killed at Wednesday 17 September 2025 02:51:38 PM IST
+⚠️ High CPU detected! PID=2161 CMD=[UVM CPU=GPU1%
+✅ Process 2161 ([UVM) killed at Wednesday 17 September 2025 02:51:38 PM IST
+⚠️ High CPU detected! PID=794351 CMD=sleep CPU=3600%
+✅ Process 794351 (sleep) killed at Wednesday 17 September 2025 02:51:38 PM IST
+⚠️ High CPU detected! PID=2846 CMD=python CPU=webui.py%
+✅ Process 2846 (python) killed at Wednesday 17 September 2025 02:51:43 PM IST
+⚠️ High CPU detected! PID=1320 CMD=avahi-daemon: CPU=running%
+✅ Process 1320 (avahi-daemon:) killed at Wednesday 17 September 2025 02:51:43 PM IST
+⚠️ High CPU detected! PID=1 CMD=/sbin/init CPU=splash%
+✅ Process 1 (/sbin/init) killed at Wednesday 17 September 2025 02:51:43 PM IST
+⚠️ High CPU detected! PID=2082 CMD=/usr/local/bin/ollama CPU=serve%
+✅ Process 2082 (/usr/local/bin/ollama) killed at Wednesday 17 September 2025 02:51:43 PM IST
+⚠️ High CPU detected! PID=2841 CMD=Xvfb CPU=:99%
+✅ Process 2841 (Xvfb) killed at Wednesday 17 September 2025 02:51:43 PM IST
+⚠️ High CPU detected! PID=1300 CMD=[UVM CPU=global%
+✅ Process 1300 ([UVM) killed at Wednesday 17 September 2025 02:51:43 PM IST
+⚠️ High CPU detected! PID=1301 CMD=[UVM CPU=deferred%
+✅ Process 1301 ([UVM) killed at Wednesday 17 September 2025 02:51:43 PM IST
+⚠️ High CPU detected! PID=1302 CMD=[UVM CPU=Tools%
+✅ Process 1302 ([UVM) killed at Wednesday 17 September 2025 02:51:43 PM IST
+⚠️ High CPU detected! PID=1375 CMD=avahi-daemon: CPU=chroot%
+✅ Process 1375 (avahi-daemon:) killed at Wednesday 17 September 2025 02:51:43 PM IST
+⚠️ High CPU detected! PID=2159 CMD=[vidmem CPU=lazy%
+✅ Process 2159 ([vidmem) killed at Wednesday 17 September 2025 02:51:43 PM IST
+⚠️ High CPU detected! PID=2160 CMD=[UVM CPU=GPU1%
+✅ Process 2160 ([UVM) killed at Wednesday 17 September 2025 02:51:43 PM IST
+⚠️ High CPU detected! PID=2161 CMD=[UVM CPU=GPU1%
+✅ Process 2161 ([UVM) killed at Wednesday 17 September 2025 02:51:43 PM IST
+⚠️ High CPU detected! PID=794351 CMD=sleep CPU=3600%
+✅ Process 794351 (sleep) killed at Wednesday 17 September 2025 02:51:43 PM IST
+⚠️ High CPU detected! PID=2846 CMD=python CPU=webui.py%
+✅ Process 2846 (python) killed at Wednesday 17 September 2025 02:51:48 PM IST
+⚠️ High CPU detected! PID=1320 CMD=avahi-daemon: CPU=running%
+✅ Process 1320 (avahi-daemon:) killed at Wednesday 17 September 2025 02:51:48 PM IST
+⚠️ High CPU detected! PID=1 CMD=/sbin/init CPU=splash%
+✅ Process 1 (/sbin/init) killed at Wednesday 17 September 2025 02:51:48 PM IST
+⚠️ High CPU detected! PID=2082 CMD=/usr/local/bin/ollama CPU=serve%
+✅ Process 2082 (/usr/local/bin/ollama) killed at Wednesday 17 September 2025 02:51:48 PM IST
+⚠️ High CPU detected! PID=2841 CMD=Xvfb CPU=:99%
+✅ Process 2841 (Xvfb) killed at Wednesday 17 September 2025 02:51:48 PM IST
+⚠️ High CPU detected! PID=1300 CMD=[UVM CPU=global%
+✅ Process 1300 ([UVM) killed at Wednesday 17 September 2025 02:51:48 PM IST
+⚠️ High CPU detected! PID=1301 CMD=[UVM CPU=deferred%
+✅ Process 1301 ([UVM) killed at Wednesday 17 September 2025 02:51:48 PM IST
+⚠️ High CPU detected! PID=1302 CMD=[UVM CPU=Tools%
+✅ Process 1302 ([UVM) killed at Wednesday 17 September 2025 02:51:48 PM IST
+⚠️ High CPU detected! PID=1375 CMD=avahi-daemon: CPU=chroot%
+✅ Process 1375 (avahi-daemon:) killed at Wednesday 17 September 2025 02:51:48 PM IST
+⚠️ High CPU detected! PID=2159 CMD=[vidmem CPU=lazy%
+✅ Process 2159 ([vidmem) killed at Wednesday 17 September 2025 02:51:48 PM IST
+⚠️ High CPU detected! PID=2160 CMD=[UVM CPU=GPU1%
+✅ Process 2160 ([UVM) killed at Wednesday 17 September 2025 02:51:48 PM IST
+⚠️ High CPU detected! PID=2161 CMD=[UVM CPU=GPU1%
+✅ Process 2161 ([UVM) killed at Wednesday 17 September 2025 02:51:48 PM IST
+⚠️ High CPU detected! PID=794351 CMD=sleep CPU=3600%
+✅ Process 794351 (sleep) killed at Wednesday 17 September 2025 02:51:48 PM IST
+⚠️ High CPU detected! PID=2846 CMD=python CPU=webui.py%
+✅ Process 2846 (python) killed at Wednesday 17 September 2025 02:51:53 PM IST
+⚠️ High CPU detected! PID=1320 CMD=avahi-daemon: CPU=running%
+✅ Process 1320 (avahi-daemon:) killed at Wednesday 17 September 2025 02:51:53 PM IST
+⚠️ High CPU detected! PID=1 CMD=/sbin/init CPU=splash%
+✅ Process 1 (/sbin/init) killed at Wednesday 17 September 2025 02:51:53 PM IST
+⚠️ High CPU detected! PID=2082 CMD=/usr/local/bin/ollama CPU=serve%
+✅ Process 2082 (/usr/local/bin/ollama) killed at Wednesday 17 September 2025 02:51:53 PM IST
+⚠️ High CPU detected! PID=2841 CMD=Xvfb CPU=:99%
+✅ Process 2841 (Xvfb) killed at Wednesday 17 September 2025 02:51:53 PM IST
+⚠️ High CPU detected! PID=1300 CMD=[UVM CPU=global%
+✅ Process 1300 ([UVM) killed at Wednesday 17 September 2025 02:51:53 PM IST
+⚠️ High CPU detected! PID=1301 CMD=[UVM CPU=deferred%
+✅ Process 1301 ([UVM) killed at Wednesday 17 September 2025 02:51:53 PM IST
+⚠️ High CPU detected! PID=1302 CMD=[UVM CPU=Tools%
+✅ Process 1302 ([UVM) killed at Wednesday 17 September 2025 02:51:53 PM IST
+⚠️ High CPU detected! PID=1375 CMD=avahi-daemon: CPU=chroot%
+✅ Process 1375 (avahi-daemon:) killed at Wednesday 17 September 2025 02:51:53 PM IST
+⚠️ High CPU detected! PID=2159 CMD=[vidmem CPU=lazy%
+✅ Process 2159 ([vidmem) killed at Wednesday 17 September 2025 02:51:53 PM IST
+⚠️ High CPU detected! PID=2160 CMD=[UVM CPU=GPU1%
+✅ Process 2160 ([UVM) killed at Wednesday 17 September 2025 02:51:53 PM IST
+⚠️ High CPU detected! PID=2161 CMD=[UVM CPU=GPU1%
+✅ Process 2161 ([UVM) killed at Wednesday 17 September 2025 02:51:53 PM IST
+⚠️ High CPU detected! PID=794351 CMD=sleep CPU=3600%
+✅ Process 794351 (sleep) killed at Wednesday 17 September 2025 02:51:53 PM IST
+⚠️ High CPU detected! PID=2846 CMD=python CPU=webui.py%
+✅ Process 2846 (python) killed at Wednesday 17 September 2025 02:51:58 PM IST
+⚠️ High CPU detected! PID=1320 CMD=avahi-daemon: CPU=running%
+✅ Process 1320 (avahi-daemon:) killed at Wednesday 17 September 2025 02:51:58 PM IST
+⚠️ High CPU detected! PID=1 CMD=/sbin/init CPU=splash%
+✅ Process 1 (/sbin/init) killed at Wednesday 17 September 2025 02:51:58 PM IST
+⚠️ High CPU detected! PID=2082 CMD=/usr/local/bin/ollama CPU=serve%
+✅ Process 2082 (/usr/local/bin/ollama) killed at Wednesday 17 September 2025 02:51:58 PM IST
+⚠️ High CPU detected! PID=2841 CMD=Xvfb CPU=:99%
+✅ Process 2841 (Xvfb) killed at Wednesday 17 September 2025 02:51:58 PM IST
+⚠️ High CPU detected! PID=1300 CMD=[UVM CPU=global%
+✅ Process 1300 ([UVM) killed at Wednesday 17 September 2025 02:51:58 PM IST
+⚠️ High CPU detected! PID=1301 CMD=[UVM CPU=deferred%
+✅ Process 1301 ([UVM) killed at Wednesday 17 September 2025 02:51:58 PM IST
+⚠️ High CPU detected! PID=1302 CMD=[UVM CPU=Tools%
+✅ Process 1302 ([UVM) killed at Wednesday 17 September 2025 02:51:58 PM IST
+⚠️ High CPU detected! PID=1375 CMD=avahi-daemon: CPU=chroot%
+✅ Process 1375 (avahi-daemon:) killed at Wednesday 17 September 2025 02:51:58 PM IST
+⚠️ High CPU detected! PID=2159 CMD=[vidmem CPU=lazy%
+✅ Process 2159 ([vidmem) killed at Wednesday 17 September 2025 02:51:58 PM IST
+⚠️ High CPU detected! PID=2160 CMD=[UVM CPU=GPU1%
+✅ Process 2160 ([UVM) killed at Wednesday 17 September 2025 02:51:58 PM IST
+⚠️ High CPU detected! PID=2161 CMD=[UVM CPU=GPU1%
+✅ Process 2161 ([UVM) killed at Wednesday 17 September 2025 02:51:58 PM IST
+⚠️ High CPU detected! PID=794351 CMD=sleep CPU=3600%
+✅ Process 794351 (sleep) killed at Wednesday 17 September 2025 02:51:58 PM IST
+⚠️ High CPU detected! PID=2846 CMD=python CPU=webui.py%
+✅ Process 2846 (python) killed at Wednesday 17 September 2025 02:52:03 PM IST
+⚠️ High CPU detected! PID=1320 CMD=avahi-daemon: CPU=running%
+✅ Process 1320 (avahi-daemon:) killed at Wednesday 17 September 2025 02:52:03 PM IST
+⚠️ High CPU detected! PID=1 CMD=/sbin/init CPU=splash%
+✅ Process 1 (/sbin/init) killed at Wednesday 17 September 2025 02:52:03 PM IST
+⚠️ High CPU detected! PID=2082 CMD=/usr/local/bin/ollama CPU=serve%
+✅ Process 2082 (/usr/local/bin/ollama) killed at Wednesday 17 September 2025 02:52:03 PM IST
+⚠️ High CPU detected! PID=2841 CMD=Xvfb CPU=:99%
+✅ Process 2841 (Xvfb) killed at Wednesday 17 September 2025 02:52:03 PM IST
+⚠️ High CPU detected! PID=1300 CMD=[UVM CPU=global%
+✅ Process 1300 ([UVM) killed at Wednesday 17 September 2025 02:52:03 PM IST
+⚠️ High CPU detected! PID=1301 CMD=[UVM CPU=deferred%
+✅ Process 1301 ([UVM) killed at Wednesday 17 September 2025 02:52:03 PM IST
+⚠️ High CPU detected! PID=1302 CMD=[UVM CPU=Tools%
+✅ Process 1302 ([UVM) killed at Wednesday 17 September 2025 02:52:03 PM IST
+⚠️ High CPU detected! PID=1375 CMD=avahi-daemon: CPU=chroot%
+✅ Process 1375 (avahi-daemon:) killed at Wednesday 17 September 2025 02:52:03 PM IST
+⚠️ High CPU detected! PID=2159 CMD=[vidmem CPU=lazy%
+✅ Process 2159 ([vidmem) killed at Wednesday 17 September 2025 02:52:03 PM IST
+⚠️ High CPU detected! PID=2160 CMD=[UVM CPU=GPU1%
+✅ Process 2160 ([UVM) killed at Wednesday 17 September 2025 02:52:03 PM IST
+⚠️ High CPU detected! PID=2161 CMD=[UVM CPU=GPU1%
+✅ Process 2161 ([UVM) killed at Wednesday 17 September 2025 02:52:03 PM IST
+⚠️ High CPU detected! PID=794351 CMD=sleep CPU=3600%
+✅ Process 794351 (sleep) killed at Wednesday 17 September 2025 02:52:03 PM IST
+⚠️ High CPU detected! PID=2846 CMD=python CPU=webui.py%
+✅ Process 2846 (python) killed at Wednesday 17 September 2025 02:52:08 PM IST
+⚠️ High CPU detected! PID=1320 CMD=avahi-daemon: CPU=running%
+✅ Process 1320 (avahi-daemon:) killed at Wednesday 17 September 2025 02:52:08 PM IST
+⚠️ High CPU detected! PID=1 CMD=/sbin/init CPU=splash%
+✅ Process 1 (/sbin/init) killed at Wednesday 17 September 2025 02:52:08 PM IST
+⚠️ High CPU detected! PID=2082 CMD=/usr/local/bin/ollama CPU=serve%
+✅ Process 2082 (/usr/local/bin/ollama) killed at Wednesday 17 September 2025 02:52:08 PM IST
+⚠️ High CPU detected! PID=2841 CMD=Xvfb CPU=:99%
+✅ Process 2841 (Xvfb) killed at Wednesday 17 September 2025 02:52:08 PM IST
+⚠️ High CPU detected! PID=1300 CMD=[UVM CPU=global%
+✅ Process 1300 ([UVM) killed at Wednesday 17 September 2025 02:52:08 PM IST
+⚠️ High CPU detected! PID=1301 CMD=[UVM CPU=deferred%
+✅ Process 1301 ([UVM) killed at Wednesday 17 September 2025 02:52:08 PM IST
+⚠️ High CPU detected! PID=1302 CMD=[UVM CPU=Tools%
+✅ Process 1302 ([UVM) killed at Wednesday 17 September 2025 02:52:08 PM IST
+⚠️ High CPU detected! PID=1375 CMD=avahi-daemon: CPU=chroot%
+✅ Process 1375 (avahi-daemon:) killed at Wednesday 17 September 2025 02:52:08 PM IST
+⚠️ High CPU detected! PID=2159 CMD=[vidmem CPU=lazy%
+✅ Process 2159 ([vidmem) killed at Wednesday 17 September 2025 02:52:08 PM IST
+⚠️ High CPU detected! PID=2160 CMD=[UVM CPU=GPU1%
+✅ Process 2160 ([UVM) killed at Wednesday 17 September 2025 02:52:08 PM IST
+⚠️ High CPU detected! PID=2161 CMD=[UVM CPU=GPU1%
+✅ Process 2161 ([UVM) killed at Wednesday 17 September 2025 02:52:08 PM IST
+⚠️ High CPU detected! PID=794351 CMD=sleep CPU=3600%
+✅ Process 794351 (sleep) killed at Wednesday 17 September 2025 02:52:08 PM IST
+⚠️ High CPU detected! PID=2846 CMD=python CPU=webui.py%
+✅ Process 2846 (python) killed at Wednesday 17 September 2025 02:52:13 PM IST
+⚠️ High CPU detected! PID=1320 CMD=avahi-daemon: CPU=running%
+✅ Process 1320 (avahi-daemon:) killed at Wednesday 17 September 2025 02:52:13 PM IST
+⚠️ High CPU detected! PID=1 CMD=/sbin/init CPU=splash%
+✅ Process 1 (/sbin/init) killed at Wednesday 17 September 2025 02:52:13 PM IST
+⚠️ High CPU detected! PID=2082 CMD=/usr/local/bin/ollama CPU=serve%
+✅ Process 2082 (/usr/local/bin/ollama) killed at Wednesday 17 September 2025 02:52:13 PM IST
+⚠️ High CPU detected! PID=2841 CMD=Xvfb CPU=:99%
+✅ Process 2841 (Xvfb) killed at Wednesday 17 September 2025 02:52:13 PM IST
+⚠️ High CPU detected! PID=1300 CMD=[UVM CPU=global%
+✅ Process 1300 ([UVM) killed at Wednesday 17 September 2025 02:52:13 PM IST
+⚠️ High CPU detected! PID=1301 CMD=[UVM CPU=deferred%
+✅ Process 1301 ([UVM) killed at Wednesday 17 September 2025 02:52:13 PM IST
+⚠️ High CPU detected! PID=1302 CMD=[UVM CPU=Tools%
+✅ Process 1302 ([UVM) killed at Wednesday 17 September 2025 02:52:13 PM IST
+⚠️ High CPU detected! PID=1375 CMD=avahi-daemon: CPU=chroot%
+✅ Process 1375 (avahi-daemon:) killed at Wednesday 17 September 2025 02:52:13 PM IST
+⚠️ High CPU detected! PID=2159 CMD=[vidmem CPU=lazy%
+✅ Process 2159 ([vidmem) killed at Wednesday 17 September 2025 02:52:13 PM IST
+⚠️ High CPU detected! PID=2160 CMD=[UVM CPU=GPU1%
+✅ Process 2160 ([UVM) killed at Wednesday 17 September 2025 02:52:13 PM IST
+⚠️ High CPU detected! PID=2161 CMD=[UVM CPU=GPU1%
+✅ Process 2161 ([UVM) killed at Wednesday 17 September 2025 02:52:13 PM IST
+⚠️ High CPU detected! PID=794351 CMD=sleep CPU=3600%
+✅ Process 794351 (sleep) killed at Wednesday 17 September 2025 02:52:13 PM IST
+⚠️ High CPU detected! PID=2846 CMD=python CPU=webui.py%
+✅ Process 2846 (python) killed at Wednesday 17 September 2025 02:52:19 PM IST
+⚠️ High CPU detected! PID=1320 CMD=avahi-daemon: CPU=running%
+✅ Process 1320 (avahi-daemon:) killed at Wednesday 17 September 2025 02:52:19 PM IST
+⚠️ High CPU detected! PID=1 CMD=/sbin/init CPU=splash%
+✅ Process 1 (/sbin/init) killed at Wednesday 17 September 2025 02:52:19 PM IST
+⚠️ High CPU detected! PID=2082 CMD=/usr/local/bin/ollama CPU=serve%
+✅ Process 2082 (/usr/local/bin/ollama) killed at Wednesday 17 September 2025 02:52:19 PM IST
+⚠️ High CPU detected! PID=2841 CMD=Xvfb CPU=:99%
+✅ Process 2841 (Xvfb) killed at Wednesday 17 September 2025 02:52:19 PM IST
+⚠️ High CPU detected! PID=1300 CMD=[UVM CPU=global%
+✅ Process 1300 ([UVM) killed at Wednesday 17 September 2025 02:52:19 PM IST
+⚠️ High CPU detected! PID=1301 CMD=[UVM CPU=deferred%
+✅ Process 1301 ([UVM) killed at Wednesday 17 September 2025 02:52:19 PM IST
+⚠️ High CPU detected! PID=1302 CMD=[UVM CPU=Tools%
+✅ Process 1302 ([UVM) killed at Wednesday 17 September 2025 02:52:19 PM IST
+⚠️ High CPU detected! PID=1375 CMD=avahi-daemon: CPU=chroot%
+✅ Process 1375 (avahi-daemon:) killed at Wednesday 17 September 2025 02:52:19 PM IST
+⚠️ High CPU detected! PID=2159 CMD=[vidmem CPU=lazy%
+✅ Process 2159 ([vidmem) killed at Wednesday 17 September 2025 02:52:19 PM IST
+⚠️ High CPU detected! PID=2160 CMD=[UVM CPU=GPU1%
+✅ Process 2160 ([UVM) killed at Wednesday 17 September 2025 02:52:19 PM IST
+⚠️ High CPU detected! PID=2161 CMD=[UVM CPU=GPU1%
+✅ Process 2161 ([UVM) killed at Wednesday 17 September 2025 02:52:19 PM IST
+⚠️ High CPU detected! PID=794351 CMD=sleep CPU=3600%
+✅ Process 794351 (sleep) killed at Wednesday 17 September 2025 02:52:19 PM IST
+🚨 Process Watchdog started (CPU > 80% will be killed)
+Checking every 5 seconds...
+----------------------------------------
+⚠️ High CPU detected! PID=3088 CMD=python CPU=webui.py%
+✅ Process 3088 (python) killed at Wednesday 17 September 2025 11:13:02 PM IST
+⚠️ High CPU detected! PID=1 CMD=/sbin/init CPU=splash%
+✅ Process 1 (/sbin/init) killed at Wednesday 17 September 2025 11:13:02 PM IST
+⚠️ High CPU detected! PID=2131 CMD=/usr/local/bin/ollama CPU=serve%
+✅ Process 2131 (/usr/local/bin/ollama) killed at Wednesday 17 September 2025 11:13:02 PM IST
+⚠️ High CPU detected! PID=3083 CMD=Xvfb CPU=:99%
+✅ Process 3083 (Xvfb) killed at Wednesday 17 September 2025 11:13:02 PM IST
+⚠️ High CPU detected! PID=1312 CMD=avahi-daemon: CPU=running%
+✅ Process 1312 (avahi-daemon:) killed at Wednesday 17 September 2025 11:13:02 PM IST
+⚠️ High CPU detected! PID=1121 CMD=[UVM CPU=global%
+✅ Process 1121 ([UVM) killed at Wednesday 17 September 2025 11:13:02 PM IST
+⚠️ High CPU detected! PID=1122 CMD=[UVM CPU=deferred%
+✅ Process 1122 ([UVM) killed at Wednesday 17 September 2025 11:13:02 PM IST
+⚠️ High CPU detected! PID=1123 CMD=[UVM CPU=Tools%
+✅ Process 1123 ([UVM) killed at Wednesday 17 September 2025 11:13:02 PM IST
+⚠️ High CPU detected! PID=1383 CMD=avahi-daemon: CPU=chroot%
+✅ Process 1383 (avahi-daemon:) killed at Wednesday 17 September 2025 11:13:02 PM IST
+⚠️ High CPU detected! PID=1948 CMD=sleep CPU=3600%
+✅ Process 1948 (sleep) killed at Wednesday 17 September 2025 11:13:02 PM IST
+⚠️ High CPU detected! PID=2228 CMD=[vidmem CPU=lazy%
+✅ Process 2228 ([vidmem) killed at Wednesday 17 September 2025 11:13:02 PM IST
+⚠️ High CPU detected! PID=2229 CMD=[UVM CPU=GPU1%
+✅ Process 2229 ([UVM) killed at Wednesday 17 September 2025 11:13:02 PM IST
+⚠️ High CPU detected! PID=2230 CMD=[UVM CPU=GPU1%
+✅ Process 2230 ([UVM) killed at Wednesday 17 September 2025 11:13:02 PM IST
+⚠️ High CPU detected! PID=3088 CMD=python CPU=webui.py%
+✅ Process 3088 (python) killed at Wednesday 17 September 2025 11:13:07 PM IST
+⚠️ High CPU detected! PID=1 CMD=/sbin/init CPU=splash%
+✅ Process 1 (/sbin/init) killed at Wednesday 17 September 2025 11:13:07 PM IST
+⚠️ High CPU detected! PID=2131 CMD=/usr/local/bin/ollama CPU=serve%
+✅ Process 2131 (/usr/local/bin/ollama) killed at Wednesday 17 September 2025 11:13:07 PM IST
+⚠️ High CPU detected! PID=3083 CMD=Xvfb CPU=:99%
+✅ Process 3083 (Xvfb) killed at Wednesday 17 September 2025 11:13:07 PM IST
+⚠️ High CPU detected! PID=1312 CMD=avahi-daemon: CPU=running%
+✅ Process 1312 (avahi-daemon:) killed at Wednesday 17 September 2025 11:13:07 PM IST
+⚠️ High CPU detected! PID=1121 CMD=[UVM CPU=global%
+✅ Process 1121 ([UVM) killed at Wednesday 17 September 2025 11:13:07 PM IST
+⚠️ High CPU detected! PID=1122 CMD=[UVM CPU=deferred%
+✅ Process 1122 ([UVM) killed at Wednesday 17 September 2025 11:13:07 PM IST
+⚠️ High CPU detected! PID=1123 CMD=[UVM CPU=Tools%
+✅ Process 1123 ([UVM) killed at Wednesday 17 September 2025 11:13:07 PM IST
+⚠️ High CPU detected! PID=1383 CMD=avahi-daemon: CPU=chroot%
+✅ Process 1383 (avahi-daemon:) killed at Wednesday 17 September 2025 11:13:07 PM IST
+⚠️ High CPU detected! PID=1948 CMD=sleep CPU=3600%
+✅ Process 1948 (sleep) killed at Wednesday 17 September 2025 11:13:07 PM IST
+⚠️ High CPU detected! PID=2228 CMD=[vidmem CPU=lazy%
+✅ Process 2228 ([vidmem) killed at Wednesday 17 September 2025 11:13:07 PM IST
+⚠️ High CPU detected! PID=2229 CMD=[UVM CPU=GPU1%
+✅ Process 2229 ([UVM) killed at Wednesday 17 September 2025 11:13:07 PM IST
+⚠️ High CPU detected! PID=2230 CMD=[UVM CPU=GPU1%
+✅ Process 2230 ([UVM) killed at Wednesday 17 September 2025 11:13:07 PM IST

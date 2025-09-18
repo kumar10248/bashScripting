@@ -1,0 +1,63 @@
+[0;34m===== SERVER DASHBOARD =====[0m
+Date & Time: Sunday 14 September 2025 02:29:52 AM IST
+User: kumar
+Hostname: kumar-aspirea71575g
+Shell: /bin/bash
+Current Directory: /home/kumar/Desktop/bashScripting
+[1;33m--- System Usage ---[0m
+CPU Usage: 9.2%
+Memory Usage: 58.76%
+Disk Usage: 57%
+[1;33m--- Services Status ---[0m
+nginx: [0;31mStopped[0m (Attempting restart...)
+nginx: [0;31mFailed to Restart[0m
+mysql: [0;32mRunning[0m
+docker: [0;32mRunning[0m
+[0;34m===== DASHBOARD END =====[0m
+------------------------------------------------------
+[0;34m===== SERVER DASHBOARD =====[0m
+Date & Time: Sunday 14 September 2025 02:31:21 AM IST
+User: kumar
+Hostname: kumar-aspirea71575g
+Shell: /bin/bash
+Current Directory: /home/kumar/Desktop/bashScripting
+[1;33m--- System Usage ---[0m
+CPU Usage: 8.3%
+Memory Usage: 57.81%
+Disk Usage: 57%
+[1;33m--- Services Status ---[0m
+nginx: [0;31mStopped[0m (Attempting restart...)
+nginx: [0;31mFailed to Restart[0m
+mysql: [0;32mRunning[0m
+docker: [0;32mRunning[0m
+[0;34m===== DASHBOARD END =====[0m
+------------------------------------------------------
+[0;34m===== SERVER DASHBOARD =====[0m
+Date & Time: Sunday 14 September 2025 02:51:59 AM IST
+User: kumar
+Hostname: kumar-aspirea71575g
+Shell: /bin/bash
+Current Directory: /home/kumar/Desktop/bashScripting
+[1;33m--- System Usage ---[0m
+CPU Usage: 13.3%
+Memory Usage: 57.18%
+Disk Usage: 57%
+[1;33m--- Services Status ---[0m
+nginx: [0;31mStopped[0m (Attempting restart...)
+[0;34m===== SERVER DASHBOARD =====[0m
+Date & Time: Monday 15 September 2025 10:22:22 PM IST
+User: kumar
+Hostname: kumar-aspirea71575g
+Shell: /bin/bash
+Current Directory: /home/kumar/Desktop/bashScripting
+[1;33m--- System Usage ---[0m
+CPU Usage: 11.4%
+Memory Usage: 64.41%
+Disk Usage: 57%
+[1;33m--- Services Status ---[0m
+nginx: [0;31mStopped[0m (Attempting restart...)
+nginx: [0;31mFailed to Restart[0m
+mysql: [0;32mRunning[0m
+docker: [0;32mRunning[0m
+[0;34m===== DASHBOARD END =====[0m
+------------------------------------------------------

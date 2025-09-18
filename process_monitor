@@ -1,0 +1,21 @@
+#!/bin/bash
+
+echo "===== Process Monitor ====="
+
+# Show top 5 CPU consuming processes
+echo -e "\nTop 5 CPU consuming processes:"
+ps -eo pid,ppid,cmd,%mem,%cpu --sort=-%cpu | head -6
+
+# Show top 5 Memory consuming processes
+echo -e "\nTop 5 Memory consuming processes:"
+ps -eo pid,ppid,cmd,%mem,%cpu --sort=-%mem | head -6
+
+# Ask user to kill a process
+read -p "Enter PID to kill (or press Enter to skip): " pid
+
+if [ ! -z "$pid" ]; then
+    kill -9 $pid
+    echo "✅ Process $pid killed."
+else
+    echo "ℹ️ No process killed."
+fi
