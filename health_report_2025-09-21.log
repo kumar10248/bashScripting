@@ -1,0 +1,21 @@
+========== System Health Report ==========
+Date & Time : Sunday 21 September 2025 06:38:38 PM IST
+Uptime      : up 3 days, 18 hours, 54 minutes
+------------------------------------------
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:           7.6Gi       4.4Gi       789Mi       771Mi       3.5Gi       3.1Gi
+Swap:          8.0Gi       1.6Gi       6.4Gi
+------------------------------------------
+Disk Usage:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p2  469G  249G  196G  57% /
+------------------------------------------
+Top 5 Processes:
+    PID    PPID CMD                         %MEM %CPU
+ 499544    3460 /usr/bin/plasma-discover     9.9  5.4
+ 489253  487889 /opt/google/chrome/chrome -  5.0  4.3
+ 487921  487886 /opt/google/chrome/chrome -  2.6  2.4
+ 498145  498107 /usr/lib/libreoffice/progra  6.4  2.3
+ 487870    8311 /opt/google/chrome/chrome    5.9  2.0
+==========================================

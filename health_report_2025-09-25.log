@@ -1,0 +1,21 @@
+========== System Health Report ==========
+Date & Time : Thursday 25 September 2025 08:31:09 PM IST
+Uptime      : up 5 minutes
+------------------------------------------
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:           7.6Gi       2.6Gi       2.8Gi       243Mi       2.8Gi       5.0Gi
+Swap:          8.0Gi          0B       8.0Gi
+------------------------------------------
+Disk Usage:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p2  469G  251G  195G  57% /
+------------------------------------------
+Top 5 Processes:
+    PID    PPID CMD                         %MEM %CPU
+   6058       1 /usr/bin/python3 /usr/lib/u  0.2 85.7
+   1717    1680 /usr/lib/xorg/Xorg -noliste  1.9  5.9
+   3375    3072 /usr/bin/kwin_x11 --replace  2.0  5.9
+   3447    3072 /usr/bin/plasmashell --no-r  4.4  4.3
+   3050    2872 python webui.py --ip 0.0.0.  3.0  3.0
+==========================================

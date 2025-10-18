@@ -1,0 +1,21 @@
+========== System Health Report ==========
+Date & Time : Saturday 18 October 2025 01:13:02 PM IST
+Uptime      : up 1 week, 3 days, 22 hours, 53 minutes
+------------------------------------------
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:           7.6Gi       3.2Gi       411Mi       799Mi       5.0Gi       4.3Gi
+Swap:          8.0Gi       1.8Gi       6.2Gi
+------------------------------------------
+Disk Usage:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p2  469G  251G  195G  57% /
+------------------------------------------
+Top 5 Processes:
+    PID    PPID CMD                         %MEM %CPU
+ 947561  947493 /opt/google/chrome/chrome -  2.6 16.9
+ 947986  947496 /opt/google/chrome/chrome -  4.0 13.8
+ 947476    3434 /opt/google/chrome/chrome    9.2 10.4
+ 947745  947496 /opt/google/chrome/chrome -  3.9  5.8
+ 947629  947496 /opt/google/chrome/chrome -  1.7  5.4
+==========================================

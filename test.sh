@@ -1,4 +1,4 @@
-#!/bin/bash
+!/bin/bash
 # echo "Hello World"
 
 # echo "Enter you name"
@@ -59,17 +59,17 @@
 
 
 
-# file=`cat<test.txt`
+file=`cat<test.txt`
 
-# echo $file
+echo $file
 
-# read -p "Enter name and age: " name age
+read -p "Enter name and age: " name age
 
-# echo "name: $name  ; age: $age" >> test.txt
+echo "name: $name  ; age: $age" >> test.txt
 
 
-# file=$(cat test.txt)
-# echo "File contents: $file"
+file=$(cat test.txt)
+echo "File contents: $file"
 
 
 file=`cat>dashboard.sh`

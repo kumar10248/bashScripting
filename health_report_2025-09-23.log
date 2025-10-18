@@ -1,0 +1,21 @@
+========== System Health Report ==========
+Date & Time : Tuesday 23 September 2025 01:36:14 PM IST
+Uptime      : up 22 hours, 9 minutes
+------------------------------------------
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:           7.6Gi       4.5Gi       531Mi       590Mi       3.5Gi       3.1Gi
+Swap:          8.0Gi       148Mi       7.9Gi
+------------------------------------------
+Disk Usage:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p2  469G  250G  195G  57% /
+------------------------------------------
+Top 5 Processes:
+    PID    PPID CMD                         %MEM %CPU
+  51267   51193 /usr/share/code/code --type  3.6  6.4
+  51314   51186 /proc/self/exe --type=utili  6.6  1.7
+  51225   51190 /usr/share/code/code --type  1.9  1.6
+  51186    3286 /usr/share/code/code .       2.5  1.1
+  51293   51186 /proc/self/exe --type=utili  1.5  0.6
+==========================================

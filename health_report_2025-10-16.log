@@ -1,0 +1,21 @@
+========== System Health Report ==========
+Date & Time : Thursday 16 October 2025 09:37:25 PM IST
+Uptime      : up 1 week, 2 days, 7 hours, 17 minutes
+------------------------------------------
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:           7.6Gi       3.0Gi       2.5Gi       431Mi       2.9Gi       4.6Gi
+Swap:          8.0Gi       2.6Gi       5.4Gi
+------------------------------------------
+Disk Usage:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p2  469G  249G  196G  56% /
+------------------------------------------
+Top 5 Processes:
+    PID    PPID CMD                         %MEM %CPU
+ 864071  863958 /snap/spotify/88/usr/share/  4.1  8.3
+ 863886    3960 /snap/spotify/88/usr/share/  2.2  6.9
+ 859663  847270 /opt/google/chrome/chrome -  4.3  3.2
+   1685    1670 /usr/lib/xorg/Xorg -noliste  0.5  1.2
+ 863989  863957 /snap/spotify/88/usr/share/  0.6  1.0
+==========================================

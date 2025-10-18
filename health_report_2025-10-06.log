@@ -1,0 +1,21 @@
+========== System Health Report ==========
+Date & Time : Monday 06 October 2025 09:19:35 PM IST
+Uptime      : up 5 minutes
+------------------------------------------
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:           7.6Gi       3.6Gi       1.8Gi       410Mi       2.9Gi       4.0Gi
+Swap:          8.0Gi          0B       8.0Gi
+------------------------------------------
+Disk Usage:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p2  469G  256G  189G  58% /
+------------------------------------------
+Top 5 Processes:
+    PID    PPID CMD                         %MEM %CPU
+   5666    5660 ps -eo pid,ppid,cmd,%mem,%c  0.0  400
+   4476    4240 /opt/google/chrome/chrome -  6.1 32.9
+   4272    4237 /opt/google/chrome/chrome -  2.6  6.9
+   4221    3510 /opt/google/chrome/chrome    5.8  6.0
+   3510    3161 /usr/bin/plasmashell --no-r  4.4  3.5
+==========================================

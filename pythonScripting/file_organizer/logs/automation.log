@@ -1,0 +1,23 @@
+2025-09-24 18:31:56,596 - INFO - ==== FILE ORGANIZER RUN START ====
+2025-09-24 18:31:56,596 - INFO - Starting organization in: /home/kumar/Downloads/test
+2025-09-24 18:31:56,596 - INFO - Moved: notes.txt → /home/kumar/Downloads/test/Documents
+2025-09-24 18:31:56,596 - INFO - Moved: photo.jpg → /home/kumar/Downloads/test/Images
+2025-09-24 18:31:56,597 - INFO - Moved: report.pdf → /home/kumar/Downloads/test/PDFs
+2025-09-24 18:31:56,597 - INFO - Moved: archive.zip → /home/kumar/Downloads/test/Archives
+2025-09-24 18:31:56,597 - INFO - Moved: video.mp4 → /home/kumar/Downloads/test/Videos
+2025-09-24 18:31:56,597 - INFO - Organization complete!
+
+2025-09-24 18:31:56,597 - INFO - Folder Report:
+2025-09-24 18:31:56,600 - INFO - total 20K
+drwxrwxr-x 2 kumar kumar 4.0K Sep 24 18:31 Archives
+drwxrwxr-x 2 kumar kumar 4.0K Sep 24 18:31 Documents
+drwxrwxr-x 2 kumar kumar 4.0K Sep 24 18:31 Images
+drwxrwxr-x 2 kumar kumar 4.0K Sep 24 18:31 PDFs
+drwxrwxr-x 2 kumar kumar 4.0K Sep 24 18:31 Videos
+2025-09-24 18:31:56,603 - INFO - 4.0K	/home/kumar/Downloads/test/Archives
+4.0K	/home/kumar/Downloads/test/Documents
+4.0K	/home/kumar/Downloads/test/Images
+4.0K	/home/kumar/Downloads/test/PDFs
+4.0K	/home/kumar/Downloads/test/Videos
+2025-09-24 18:31:56,603 - INFO - ==== RUN COMPLETE ====
+

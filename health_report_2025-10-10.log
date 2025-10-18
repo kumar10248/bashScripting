@@ -1,0 +1,21 @@
+========== System Health Report ==========
+Date & Time : Friday 10 October 2025 08:33:07 AM IST
+Uptime      : up 2 days, 18 hours, 13 minutes
+------------------------------------------
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:           7.6Gi       3.9Gi       752Mi       595Mi       3.8Gi       3.7Gi
+Swap:          8.0Gi       1.5Gi       6.5Gi
+------------------------------------------
+Disk Usage:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p2  469G  247G  199G  56% /
+------------------------------------------
+Top 5 Processes:
+    PID    PPID CMD                         %MEM %CPU
+ 252989  252921 /opt/microsoft/msedge/msedg  5.8  110
+ 253034  252921 /opt/microsoft/msedge/msedg  2.9 56.1
+ 252953  252917 /opt/microsoft/msedge/msedg  2.4 23.0
+ 252902    3960 /opt/microsoft/msedge/msedg  5.8 18.5
+ 252990  252921 /opt/microsoft/msedge/msedg  2.9 11.6
+==========================================

@@ -1,0 +1,21 @@
+========== System Health Report ==========
+Date & Time : Saturday 20 September 2025 11:41:45 AM IST
+Uptime      : up 2 days, 11 hours, 57 minutes
+------------------------------------------
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:           7.6Gi       3.4Gi       1.4Gi       552Mi       3.7Gi       4.2Gi
+Swap:          8.0Gi       1.6Gi       6.4Gi
+------------------------------------------
+Disk Usage:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p2  469G  249G  196G  56% /
+------------------------------------------
+Top 5 Processes:
+    PID    PPID CMD                         %MEM %CPU
+ 434191  434112 /usr/share/code/code --type  4.5  5.5
+   1674    1661 /usr/lib/xorg/Xorg -noliste  0.7  1.9
+   3406    3081 /usr/bin/kwin_x11 --replace  1.1  1.9
+ 434145  434109 /usr/share/code/code --type  2.0  1.7
+ 414596  414484 /snap/spotify/88/usr/share/  3.8  1.1
+==========================================

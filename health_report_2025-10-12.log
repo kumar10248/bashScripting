@@ -1,0 +1,21 @@
+========== System Health Report ==========
+Date & Time : Sunday 12 October 2025 01:08:52 AM IST
+Uptime      : up 4 days, 10 hours, 49 minutes
+------------------------------------------
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:           7.6Gi       4.6Gi       670Mi       700Mi       3.3Gi       3.0Gi
+Swap:          8.0Gi       1.7Gi       6.3Gi
+------------------------------------------
+Disk Usage:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p2  469G  247G  198G  56% /
+------------------------------------------
+Top 5 Processes:
+    PID    PPID CMD                         %MEM %CPU
+ 416183  408517 /opt/google/chrome/chrome -  7.2 32.0
+ 429380  429295 /opt/microsoft/msedge/msedg  6.3 32.0
+ 429412  429295 /opt/microsoft/msedge/msedg  2.9 24.0
+ 429007  408517 /opt/google/chrome/chrome -  3.7 14.6
+ 429276    3960 /opt/microsoft/msedge/msedg  5.7 12.5
+==========================================

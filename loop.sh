@@ -1,16 +1,16 @@
 #!/bin/bash
-# for((i=0;i <10;i++)){
-#     echo "Devashish"
-# }
+for((i=0;i <10;i++)){
+    echo "Devashish"
+}
 
-# arr=(1 2 6 8)
-# echo ${#arr[@]}
+arr=(1 2 6 8)
+echo ${!arr[@]}
 
-# for i in ${!arr[@]}; do
-#     echo "Array Element: ${arr[$i]}"
-# done
+for i in ${!arr[@]}; do
+    echo "Array Element: ${arr[$i]}"
+done
 
-# echo ${arr[@]}
+echo ${#arr[@]}
 # while loop
 
 # j=0;
@@ -19,14 +19,14 @@
 # let j++
 # done 
 
-i=0;
+# i=0;
 
-until [ $i -gt 10 ];
-do
+# until [ $i -gt 10 ];
+# do
 
-echo "devo";
-let i++;
+# echo "devo";
+# let i++;
 
-done;
+# done;
 
 
