@@ -1,4 +1,4 @@
-# 🧠 Ultimate Linux Commands Cheat-Sheet (Developer Edition)
+# 🧠 Ultimate Linux Commands Cheat-Sheet
 
 *(Curated for power users, DevOps learners, and system explorers)*  
 
